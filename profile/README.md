@@ -6,7 +6,7 @@ This repository contains technical resources including documentation and code sa
 
 ## Course links
 
-* [Technical docs](/documentation)
+* [Technical docs](/docs)
 
 ## Other links
 
