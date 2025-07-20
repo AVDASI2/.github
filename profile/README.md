@@ -6,7 +6,7 @@ This repository contains technical resources including documentation and code sa
 
 ## Course links
 
-* [Technical docs](/docs)
+* [Technical docs](https://avdasi2.github.io/docs/)
 
 ## Other links
 
