@@ -1,0 +1,66 @@
+site_name: AVDASI 2 Documentation
+site_url: https://avdasi2.github.io/docs/
+repo_url: https://github.com/AVDASI2/docs
+
+theme: 
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    - scheme: flightlab
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: flightlab_dark
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+
+plugins:
+  - search
+  - literate-nav:
+       nav_file: _index.md
+  - glightbox
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - section-index
+
+nav:
+  - Home: index.md
+  - Avionics: Avionics/
+  - Aerodynamics: Aerodynamics/
+  - Structures: Structures/
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.tasklist
+  - pymdownx.arithmatex
+  - pymdownx.keys
+  - pymdownx.emoji
+  - pymdownx.mark
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.inlinehilite
+  - admonition
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/UoBFlightLab
+
