@@ -1,6 +1,6 @@
 # AVDASI2
 
-The AVDASI2[^1] design/build/test unit is a keystone of the Aerospace MEng and BEng units at the University of Bristol.
+The AVDASI2[^1] design/build/test unit is a keystone of the [Aerospace MEng and BEng programmes](https://www.bristol.ac.uk/study/undergraduate/search/?query=aerospace) at the [University of Bristol](https://bristol.ac.uk).
 
 This repository contains technical resources including documentation and code samples, which should be used alongside wider unit documentation.
 
