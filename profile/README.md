@@ -13,4 +13,4 @@ This repository contains technical resources including documentation and code sa
 * [See what people are sharing about AVDASI2 on LinkedIn](https://www.linkedin.com/search/results/all/?keywords=%22avdasi2%22).
 * [Find out more about our Aerospace programmes at the University of Bristol](https://www.bristol.ac.uk/study/undergraduate/search/?query=aerospace)
 
-[^1]: Aerospace Vehicle Design And Systems Integration - it's a mouthful, but AVDASI1-4 span our BEng and MEng programmes.
+[^1]: Aerospace Vehicle Design And Systems Integration - it's a mouthful, but AVDASIs 1-4 span our BEng and MEng programmes.
